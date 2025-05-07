@@ -12,6 +12,7 @@
 //! A Tokenizer works as a pipeline, it processes some raw text as input and outputs an `Encoding`.
 //! The various steps of the pipeline are:
 //!
+
 //! 1. The `Normalizer`: in charge of normalizing the text. Common examples of normalization are
 //!    the [unicode normalization standards](https://unicode.org/reports/tr15/#Norm_Forms), such as `NFD` or `NFKC`.
 //!    More details about how to use the `Normalizers` are available on the
