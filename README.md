@@ -1,4 +1,4 @@
-This is the code of paper https://openreview.net/pdf?id=QIBLeMtyMS submmitted to ICML 2025. This is a version of equal function as to the algorithm described in the paper.
+This is the code of paper https://openreview.net/pdf?id=QIBLeMtyMS submmitted to NeurIPS 2025. This is a version of equal function as to the algorithm described in the paper.
 
 ### Implemetation
 
