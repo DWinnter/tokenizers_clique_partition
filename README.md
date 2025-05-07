@@ -1,11 +1,6 @@
 # Length-MAX Tokenizer
 
 Length-MAX Tokenizer is a length-oriented, graph-partition based sub-word tokenizer that maximises average token length while scaling linearly to multi-terabyte corpora.
-
-<p align="center">
-  <img src="docs/arch_overview.png" width="600" alt="architecture overview">
-</p>
-
 ---
 
 ## ✨ Features
