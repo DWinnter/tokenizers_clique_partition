@@ -81,21 +81,6 @@ All raw logs, tables and figures will be saved under `./runs/`.
 
 ---
 
-## 📜 Citation
-
-If you use Length-MAX in your research, please cite:
-
-```bibtex
-@inproceedings{lengthmax2025,
-  title     = {Length-MAX Tokenizer: Linear-Time Sub-word Tokenisation via Graph Partitioning},
-  author    = {Your Name and Others},
-  booktitle = {NeurIPS},
-  year      = {2025}
-}
-```
-
----
-
 ## 🤝 Contributing
 
 Bug reports, feature requests and pull-requests are welcome!  
